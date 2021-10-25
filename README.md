@@ -67,3 +67,4 @@ Another reminder from the instruction team. This is NOT A TEST. We are not looki
 What we are looking for is effort, critical thinking about the concepts, creative thinking to bind the concepts together for a solution, and collaboration with your teammates and instruction team.
 
 If you only get 50% of it complete, but display the above Core Skills and can demonstrate understanding of the fundamental code concepts, then you are learning and growing - which is what we care about.
+# book-4-self-assessment

@@ -69,3 +69,4 @@ What we are looking for is effort, critical thinking about the concepts, creativ
 If you only get 50% of it complete, but display the above Core Skills and can demonstrate understanding of the fundamental code concepts, then you are learning and growing - which is what we care about.
 # book-4-self-assessment
 # book4-self-assessment
+# book4-self-assessment
